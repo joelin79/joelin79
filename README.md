@@ -4,7 +4,7 @@
 ## 關於我
 - `University of Washington - Seattle`'24
 - 努力朝 ECE 或 CE 就學
-- 18歲 `2006/07/09`，對電子電路＋程式設計熱愛
+- 18歲 `2006/07/09`，熱愛電子電路＋程式設計
 
 ## 作品
 - [臺灣地震速報 Taiwan EEW](https://github.com/joelin79/taiwaneew) 臺灣地震速報 App
