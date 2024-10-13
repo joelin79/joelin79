@@ -2,7 +2,7 @@
 <!-- <img alt="Discord" src="https://img.shields.io/discord/926545182407688273"> -->
 
 ## 關於我
-- `University of Washington - Seattle`'24
+- `University of Washington - Seattle`'28
 - 努力朝 ECE 或 CE 就學
 - 18歲 `2006/07/09`，熱愛電子電路＋程式設計
 
