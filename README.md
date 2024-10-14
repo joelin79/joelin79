@@ -9,7 +9,7 @@
 - 18 years old `2006/07/09`, passionate about electronics + programming
 
 ## Works
-- [Taiwan EEW](https://github.com/joelin79/taiwaneew) Taiwan Earthquake Early Warning App
+- [Taiwan EEW](https://github.com/joelin79/taiwaneew) Taiwan Earthquake Early Warning App **(Partnership with Taiwan Central Weather Association)**
 
 ## Skills
 - `Swift` `Java` `Python` `HTML` `CSS` `Google Cloud` `AWS`
@@ -32,7 +32,7 @@
       - `2024/04/23` Surpassed 1 million downloads (April 23 aftershock)
       - `2024/08/01` Surpassed 1.5 million downloads
 - `2024/07/12` Joined **PickTrip** as an `iOS Developer` and `Marketer`
-- `2024/08/??` Signed a collaboration agreement with **Central Weather Administration (CWA)**
+- `2024` Signed a collaboration agreement with Taiwan **Central Weather Administration (CWA)**
 
 --------------------------------------------------------
 
@@ -43,7 +43,7 @@
 - 18歲 `2006/07/09`，熱愛電子電路＋程式設計
 
 ## 作品
-- [臺灣地震速報 Taiwan EEW](https://github.com/joelin79/taiwaneew) 臺灣地震速報 App
+- [臺灣地震速報 Taiwan EEW](https://github.com/joelin79/taiwaneew) 臺灣地震速報 App **(中央氣象署合作對象)**
 
 ## 技能
 - `Swift` `Java` `Python` `HTML` `CSS` `Google Cloud` `AWS`
@@ -66,7 +66,7 @@
       - `2024/04/23` 突破 100 萬 次下載 (423 餘震)
       - `2024/08/01` 突破 150 萬 次下載
 - `2024/07/12` 加入 **PickTrip** 擔任 `iOS 開發` 及 `行銷`
-- `2024/08/??` 與 **交通部中央氣象署(CWA)** 簽約合作
+- `2024` 與 **交通部中央氣象署(CWA)** 簽約合作
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joelin79&show_icons=true&theme=radical&count_private=true)
 
