@@ -68,5 +68,5 @@
 - `2024/07/12` 加入 **PickTrip** 擔任 `iOS 開發` 及 `行銷`
 - `2024` 與 **交通部中央氣象署(CWA)** 簽約合作
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joelin79&show_icons=true&theme=radical&count_private=true)
+![joelin79's Stats](https://vercel-945l.vercel.app/api?username=joelin79&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
 
