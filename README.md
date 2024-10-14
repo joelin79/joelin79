@@ -1,6 +1,7 @@
 # 林子祐 Joe Lin
-<img alt="Discord" src="https://img.shields.io/discord/1273670611780108411">
-
+<a href="https://discord.gg/KrJV77bdJA">
+   <img alt="Discord" src="https://img.shields.io/discord/1273670611780108411">
+</a>
 
 
 ## About Me
@@ -10,7 +11,10 @@
 - 18 years old `2006/07/09`, passionate about electronics + programming
 
 ## Works
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+<a href="https://apps.apple.com/us/app/taiwan-eew-%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1/id6450436314">
+   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store">
+</a>
+
 - [Taiwan EEW](https://github.com/joelin79/taiwaneew) Taiwan Earthquake Early Warning App **(Partnership with Taiwan Central Weather Association)**
 
 ## Skills
@@ -45,7 +49,10 @@
 - 18歲 `2006/07/09`，熱愛電子電路＋程式設計
 
 ## 作品
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+<a href="https://apps.apple.com/us/app/taiwan-eew-%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1/id6450436314">
+   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store">
+</a>
+
 - [臺灣地震速報 Taiwan EEW](https://github.com/joelin79/taiwaneew) 臺灣地震速報 App **(中央氣象署合作對象)**
 
 ## 技能
