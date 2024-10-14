@@ -5,23 +5,23 @@
 
 
 
-## About Me
+## 👤 About Me
 - **Author of [Taiwan Earthquake Early Warning (Taiwan EEW)](https://apps.apple.com/tw/app/%E8%87%BA%E7%81%A3%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1/id6450436314)**
 - `University of Washington - Seattle`'28
 - Pursuing studies in ECE or CE
 - 18 years old `2006/07/09`, passionate about electronics + programming
 
-## Works
+## 📑 Works
 <a href="https://apps.apple.com/us/app/taiwan-eew-%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1/id6450436314">
    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store">
 </a>
 
 - [Taiwan EEW](https://github.com/joelin79/taiwaneew) Taiwan Earthquake Early Warning App **(Partnership with Taiwan Central Weather Association)**
 
-## Skills
+## 💪 Skills
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-## Milestones
+## 📈 Milestones
 - `2023/07/14` Launched **[Taiwan Earthquake Early Warning](https://apps.apple.com/tw/app/%E8%87%BA%E7%81%A3%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1/id6450436314)**
    - **App Store Achievements:**
       - 🏆 Most Downloaded EEW App on App Store
@@ -43,23 +43,23 @@
 
 --------------------------------------------------------
 
-## 關於我
+## 👤 關於我
 - **台灣地震速報 作者**
 - `University of Washington - Seattle`'28
 - 努力朝 ECE 或 CE 就學
 - 18歲 `2006/07/09`，熱愛電子電路＋程式設計
 
-## 作品
+## 📑 作品
 <a href="https://apps.apple.com/us/app/taiwan-eew-%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1/id6450436314">
    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store">
 </a>
 
 - [臺灣地震速報 Taiwan EEW](https://github.com/joelin79/taiwaneew) 臺灣地震速報 App **(中央氣象署合作對象)**
 
-## 技能
+## 💪 技能
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-## 里程碑
+## 📈 里程碑
 - `2023/07/14` 上架臺灣地震速報 **[臺灣地震速報](https://apps.apple.com/tw/app/%E8%87%BA%E7%81%A3%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1/id6450436314)**
    - **App Store 紀錄：**
       - 🏆 App Store 最熱門地震速報 App | Most Downloaded EEW App on App Store
@@ -80,4 +80,6 @@
 - `2024` 與 **交通部中央氣象署(CWA)** 簽約合作
 
 ![joelin79's Stats](https://vercel-945l.vercel.app/api?username=joelin79&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
+![joelin79's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelin79&theme=ayu-mirage&hide_border=false)
 
+![joelin79's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelin79&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
