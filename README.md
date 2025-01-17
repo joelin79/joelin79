@@ -42,6 +42,7 @@
 - `2024/07/12` Joined **PickTrip** as an `iOS Developer` and `Marketer`
 - `2024/08` Signed a collaboration agreement with Taiwan **Central Weather Administration (CWA)**
 - `2024/10` Joined Husky Robotics Firmware Team
+- `2025/01/01` Awarded a Utility Model Patent for a Mobile Earthquake Early Warning System (中華民國新型第 M664996 號)
 
 --------------------------------------------------------
 
@@ -82,6 +83,7 @@
 - `2024/07/12` 加入 **PickTrip** 擔任 `iOS 開發` 及 `行銷`
 - `2024` 與 **交通部中央氣象署(CWA)** 簽約合作
 - `2024/10` 加入 Husky Robotics 電機韌體組
+- `2025/01/01` 榮獲《地震預警系統》新型專利 (中華民國新型第 M664996 號)
 
 ![joelin79's Stats](https://vercel-945l.vercel.app/api?username=joelin79&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
 ![joelin79's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelin79&theme=ayu-mirage&hide_border=false)
