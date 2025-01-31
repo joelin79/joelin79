@@ -30,6 +30,7 @@
       - 🏆 `Free Weather Apps Top Charts`: **No.1**
       - 🏅 `Editor's Weekly Picks` _2024 April W2_
       - 🏅 `App Culture: Must-Have Apps for Earthquake Preparedness`
+      - 🏅 `App Store Awards: 2024 Top Free Apps Chart **No.5**`
    - **Download Records:**
       - `2023/09/05` Surpassed 1,000 downloads
       - `2023/11/20` Surpassed 5,000 downloads
@@ -71,6 +72,7 @@
       - 🏆 `免費天氣App排行榜`: **No.1**
       - 🏅 `開發者每週精選` _2024 April W2_
       - 🏅 `App Culture: 地震防災必備 App`
+      - 🏅 `App Store Awards: 台灣年度熱門 App 排行 **No.5**`
    - **下載紀錄：**
       - `2023/09/05` 突破 1000 次下載
       - `2023/11/20` 突破 5000 次下載
